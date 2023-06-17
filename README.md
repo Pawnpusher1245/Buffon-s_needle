@@ -1,5 +1,3 @@
-Certainly! Here's an example of a README file for your Buffon's Needle project:
-
 # Buffon's Needle Project
 
 This project explores Buffon's Needle experiment, a classic mathematical experiment that involves randomly dropping needles on a floor made up of parallel lines. The goal is to estimate the value of π (pi) based on the likelihood of the needle crossing a line.
